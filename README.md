@@ -1,2 +1,2 @@
 # Formula1App
-Console application      
+Console application        
