@@ -2,16 +2,3 @@
 Console application                    
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
